@@ -1,6 +1,9 @@
 /**
 *	Converts String to int;
 * 	Negative values are supported;
+* 	Time complexity: O(n)
+* 	Space complexity: O(1)
+*
 */
 public class Str2Int {
 

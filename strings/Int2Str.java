@@ -1,6 +1,9 @@
 /**
 *	Converts int to String;
-*	Negative values are supported;
+*	Zero and negative values are supported;
+* 	Time complexity: O(n)
+* 	Space complexity: O(1)
+*
 */
 public class Int2Str {
 
