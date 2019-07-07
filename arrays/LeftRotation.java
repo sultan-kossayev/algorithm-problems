@@ -29,21 +29,6 @@ public class LeftRotation {
 		System.out.println(Arrays.toString(a));
 	}
 
-	private static void swap(int[] a, int s, int e, int d) {
-		System.out.println(Arrays.toString(a) + "|| " + s + ", " + e);
-		if (s >= e) {
-			return;
-		}
-
-		for (int i = s, j = e, k = 0; k < d; k++, i++, j++) {
-			int t = a[j];
-			a[j] = a[i];
-			a[i] = t;
-		}
-
-		swap(a, 0, e - d, d);
-	}
-
 	private static int[] getArr(int n) {
 		String[] aItems = scanner.nextLine().split(" ");
 
