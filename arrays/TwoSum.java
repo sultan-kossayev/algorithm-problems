@@ -1,4 +1,7 @@
 import java.util.Scanner;
+import java.util.Map;
+import java.util.HashMap;
+import java.util.Arrays;
 
 /**
 * https://leetcode.com/problems/two-sum/
@@ -14,10 +17,11 @@ public class TwoSum {
 
 		int[] arr = getArr(n);
 
-		return twoSum(arr, target); 
+		int[] sum = twoSum(arr, target);
+		System.out.println(Arrays.toString(sum));
 	}
 
-	private int[] twoSum(int[] nums, int target) {
+	private static int[] twoSum(int[] nums, int target) {
 
 		// Using hash map for locating a complement
 		Map<Integer, Integer> maps = new HashMap<>();
