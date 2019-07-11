@@ -15,7 +15,7 @@ public class Str2Int {
 		for (int i = fistIndx; i < str.length();i++) {
 			int n = str.charAt(i) - '0';			
 
-			// "456" => 4 + (4 * 10 + 5) + (45 * 10 + 6)
+			// "456" => (0 * 10 + 4) + (4 * 10 + 5) + (45 * 10 + 6)
 			num = num * 10 + n;
 		}
 
