@@ -21,6 +21,7 @@ public class ImageFlipper {
 	private static int[][] flipAndInvertImage(int[][] A) {
 		int length = A.length;
 		for (int[] a : A) {
+			// iterate over all indexes in the first half of the row, including center
 			for (int i = 0; i < (length + 1) / 2; i++) {
 				int t = a[i] ^ 1;
 				a[i] = a[length - i - 1] ^ 1;
