@@ -3,8 +3,10 @@ public class ReverseSinglyLinkedList {
 
     public static void main(String... args) {
         ListNode head = prepare();
-
         toString(reverseListIteratively(head));
+
+        ListNode head2 = prepare();
+        toString(reverseListRecursively(head2));
     }
 
     private static ListNode reverseListIteratively(ListNode head) {
@@ -18,6 +20,18 @@ public class ReverseSinglyLinkedList {
         }
 
         return prev;
+    }
+
+    private static ListNode reverseListRecursively(ListNode head) {
+        if (head == null || head.next == null) {
+            return head;
+        }
+
+        ListNode newHead = reverseListRecursively(head.next);
+        head.next.next = head;
+        head.next = null;
+
+        return newHead;
     }
 
     private static ListNode prepare() {
