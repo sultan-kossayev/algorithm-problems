@@ -1,6 +1,6 @@
 package leetcode;
 
-import utils.ArrayUtil;
+import utils.ArrayAssertions;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -48,6 +48,6 @@ public class MergeIntervals {
         int[][] intervals = new int[][]{{1,3},{2,6},{8,10},{5,7},{15,18}};
         int[][] merged = merge(intervals);
 
-        ArrayUtil.assertAllEqual(merged, new int[][]{{1,7},{8,10},{15,18}});
+        ArrayAssertions.assertEqual(merged, new int[][]{{1,7},{8,10},{15,18}});
     }
 }
