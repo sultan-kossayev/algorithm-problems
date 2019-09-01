@@ -12,3 +12,4 @@ Problem | Solution | Difficulty
 [1. Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/TwoSum.java)|Easy
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/AddTwoNumbers.java)|Medium
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/LRUCache.java)|Medium
+[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MedianOfTwoSortedArrays.java)|Hard
