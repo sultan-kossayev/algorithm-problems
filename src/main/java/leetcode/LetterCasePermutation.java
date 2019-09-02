@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Assertions;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.TreeSet;
 
 // https://leetcode.com/problems/letter-case-permutation/
 public class LetterCasePermutation {
@@ -40,7 +39,6 @@ public class LetterCasePermutation {
     public static void main(String... args) {
         List<String> res = letterCasePermutation("a1b2");
 
-        res = new ArrayList(new TreeSet(res));
-        Assertions.assertTrue(res.equals(Arrays.asList(new String[]{"A1B2", "A1b2", "a1B2", "a1b2"})));
+        Assertions.assertTrue(res.equals(Arrays.asList(new String[]{"a1b2", "A1b2", "A1B2", "a1B2"})));
     }
 }
