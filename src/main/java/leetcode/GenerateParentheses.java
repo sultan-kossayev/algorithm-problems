@@ -11,7 +11,7 @@ public class GenerateParentheses {
     /**
      * Solved using backtracking.
      * The algorithm follows the intuition that each "open" parenthesis will require "closed" parenthesis later.
-     * Thus, whenever we open a parenthesis we increment a number of parentheses that we have close later.
+     * Thus, whenever we open a parenthesis we increment a number of parentheses that we have to close later.
      */
     private static List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
