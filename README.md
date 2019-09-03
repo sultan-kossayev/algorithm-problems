@@ -15,3 +15,4 @@ Problem | Solution | Difficulty
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MedianOfTwoSortedArrays.java)|Hard
 [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/LetterCasePermutation.java)|Easy
 [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/solution/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/GenerateParentheses.java)|Medium
+[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/LongestPalindromicSubstring.java)|Medium
