@@ -21,3 +21,4 @@ Problem | Solution | Difficulty
 [1180. Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/CountSubstringsWithOnlyOneDistinctLetter.java)|Easy
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MaximumSubarray.java)|Easy
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MergeTwoSortedLists.java)|Easy
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ValidParentheses.java)|Easy
