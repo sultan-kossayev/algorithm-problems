@@ -32,3 +32,4 @@ Problem | Solution | Difficulty
 [155. Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MinStack.java)|Easy
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MoveZeroes.java)|Easy
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ValidPalindrome.java)|Easy
+[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ClimbingStairs.java)|Easy
