@@ -101,7 +101,7 @@ public class MedianOfTwoSortedArrays {
             int right2 = byIdx(mArr, p2);           // M[j]
 
             if (left1 <= right2 && left2 <= right1) {
-                if ((n + m) % 2 == 1) {
+                if (((n + m) & 1) == 1) {
                     median = Math.max(left1, left2);
                 } else {
                     median = (Math.max(left1, left2) + Math.min(right1, right2)) / 2.0;
