@@ -27,3 +27,4 @@ Problem | Solution | Difficulty
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/BestTimeToBuyAndSellStock.java)|Easy
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MergeSortedArray.java)|Easy
 [202. Happy Number](https://leetcode.com/problems/happy-number/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/HappyNumber.java)|Easy
+[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/RomanToInteger.java)|Easy
