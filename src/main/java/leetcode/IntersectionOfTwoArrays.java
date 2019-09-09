@@ -1,6 +1,6 @@
 package leetcode;
 
-import utils.ArrayAssertions;
+import org.junit.jupiter.api.Assertions;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -69,7 +69,7 @@ public class IntersectionOfTwoArrays {
     public static void main(String[] args) {
         int[] intersection1 = intersection1(new int[]{4,9,5}, new int[]{9,4,9,8,4});
         int[] intersection2 = intersection2(new int[]{4,9,5}, new int[]{9,4,9,8,4});
-        ArrayAssertions.assertEqual(intersection1, new int[]{4,9});
-        ArrayAssertions.assertEqual(intersection2, new int[]{4,9});
+        Assertions.assertArrayEquals(intersection1, new int[]{4, 9});
+        Assertions.assertArrayEquals(intersection2, new int[]{4, 9});
     }
 }

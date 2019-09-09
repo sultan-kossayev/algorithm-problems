@@ -1,9 +1,9 @@
 package leetcode;
 
-import utils.ArrayAssertions;
+import org.junit.jupiter.api.Assertions;
 
-import java.util.Map;
 import java.util.HashMap;
+import java.util.Map;
 
 //https://leetcode.com/problems/two-sum/
 public class TwoSum {
@@ -33,6 +33,6 @@ public class TwoSum {
         int[] nums = new int[]{2,3,4,5};
         int[] sum = twoSum(nums, 9);
 
-        ArrayAssertions.assertEqual(sum, new int[]{2,3});
+        Assertions.assertArrayEquals(sum, new int[]{2, 3});
     }
 }
