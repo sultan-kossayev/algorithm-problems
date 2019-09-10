@@ -35,3 +35,4 @@ Problem | Solution | Difficulty
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ClimbingStairs.java)|Easy
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/LongestCommonPrefix.java)|Easy
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/FirstUniqueCharacterInString.java)|Easy
+[204. Count Primes](https://leetcode.com/problems/count-primes/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/CountPrimes.java)|Easy
