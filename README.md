@@ -39,3 +39,4 @@ Problem | Solution | Difficulty
 [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/SymmetricTree.java)|Easy
 [198. House Robber](https://leetcode.com/problems/house-robber/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/HouseRobber.java)|Easy
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/IntersectionOfTwoArrays2.java)|Easy
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ValidAnagram.java)|Easy
