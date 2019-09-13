@@ -41,3 +41,4 @@ Problem | Solution | Difficulty
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/IntersectionOfTwoArrays2.java)|Easy
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ValidAnagram.java)|Easy
 [268. Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MissingNumber.java)|Easy
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/RemoveDuplicatesFromSortedArray.java)|Easy
