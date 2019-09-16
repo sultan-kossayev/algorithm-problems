@@ -42,3 +42,4 @@ Problem | Solution | Difficulty
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ValidAnagram.java)|Easy
 [268. Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MissingNumber.java)|Easy
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/RemoveDuplicatesFromSortedArray.java)|Easy
+[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/IntersectionOfTwoLinkedLists.java)|Easy
