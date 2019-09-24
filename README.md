@@ -46,3 +46,4 @@ Problem | Solution | Difficulty
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/LinkedListCycle.java)|Easy
 [136. Single Number](https://leetcode.com/problems/single-number/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/SingleNumber.java)|Easy
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/RotateArray.java)|Easy
+[169. Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MajorityElement.java)|Easy
