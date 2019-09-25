@@ -47,3 +47,4 @@ Problem | Solution | Difficulty
 [136. Single Number](https://leetcode.com/problems/single-number/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/SingleNumber.java)|Easy
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/RotateArray.java)|Easy
 [169. Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MajorityElement.java)|Easy
+[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/solution/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MaximumDepthOfBinaryTree.java)|Easy
