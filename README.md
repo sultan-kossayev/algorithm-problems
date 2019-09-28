@@ -50,3 +50,4 @@ Problem | Solution | Difficulty
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/solution/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MaximumDepthOfBinaryTree.java)|Easy
 [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/SumOfTwoIntegers.java)|Easy
 [326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/PowerOfThree.java)|Easy
+[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ReverseBits.java)|Easy
