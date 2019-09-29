@@ -55,3 +55,4 @@ Problem | Solution | Difficulty
 [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/NumberOf1Bits.java)|Easy
 [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/DeleteNodeInLinkedList.java)|Easy
 [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ContainsDuplicate.java)|Easy
+[171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ExcelSheetColumnNumber.java)|Easy
