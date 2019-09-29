@@ -53,3 +53,4 @@ Problem | Solution | Difficulty
 [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ReverseBits.java)|Easy
 [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/FactorialTrailingZeroes.java)|Easy
 [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/NumberOf1Bits.java)|Easy
+[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/DeleteNodeInLinkedList.java)|Easy
