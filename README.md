@@ -52,3 +52,4 @@ Problem | Solution | Difficulty
 [326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/PowerOfThree.java)|Easy
 [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ReverseBits.java)|Easy
 [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/FactorialTrailingZeroes.java)|Easy
+[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/NumberOf1Bits.java)|Easy
