@@ -57,3 +57,4 @@ Problem | Solution | Difficulty
 [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ContainsDuplicate.java)|Easy
 [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ExcelSheetColumnNumber.java)|Easy
 [66. Plus One](https://leetcode.com/problems/plus-one/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/PlusOne.java)|Easy
+[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/PascalsTriangle.java)|Easy
