@@ -59,3 +59,4 @@ Problem | Solution | Difficulty
 [66. Plus One](https://leetcode.com/problems/plus-one/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/PlusOne.java)|Easy
 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/PascalsTriangle.java)|Easy
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/BestTimeToBuyAndSellStock2.java)|Easy
+[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ImplementStrStr.java)|Easy
