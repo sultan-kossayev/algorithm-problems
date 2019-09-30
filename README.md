@@ -60,3 +60,4 @@ Problem | Solution | Difficulty
 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/PascalsTriangle.java)|Easy
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/BestTimeToBuyAndSellStock2.java)|Easy
 [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ImplementStrStr.java)|Easy
+[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/Sqrt.java)|Easy
