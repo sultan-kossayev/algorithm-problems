@@ -38,7 +38,7 @@ public class InorderSuccessorInBST {
     public static void main(String... args) {
         TreeNode r = new TreeNode(20);
         r.left = new TreeNode(8);
-        r.right = new TreeNode(17);
+        r.right = new TreeNode(21);
         r.left.left = new TreeNode(4);
         r.left.right = new TreeNode(11);
         r.left.right.left = new TreeNode(9);
