@@ -66,3 +66,4 @@ Problem | Solution | Difficulty
 [289. Game of Life](https://leetcode.com/problems/game-of-life/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/GameOfLife.java)|Medium
 [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/InorderSuccessorInBST.java)|Medium
 [510. Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/InorderSuccessorInBST2.java)|Medium
+[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MeetingRooms.java)|Easy
