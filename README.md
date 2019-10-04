@@ -69,3 +69,4 @@ Problem | Solution | Difficulty
 [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MeetingRooms.java)|Easy
 [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/MeetingRooms.java)|Medium
 [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/InsertDeleteGetRandom.java)|Medium
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/GroupAnagrams.java)|Medium
