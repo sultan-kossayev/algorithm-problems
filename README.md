@@ -72,3 +72,4 @@ Problem | Solution | Difficulty
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/GroupAnagrams.java)|Medium
 [15. 3Sum](https://leetcode.com/problems/3sum/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ThreeSum.java)|Medium
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ContainerWithMostWater.java)|Medium
+[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/SpiralMatrix.java)|Medium
