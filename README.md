@@ -74,3 +74,4 @@ Problem | Solution | Difficulty
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ContainerWithMostWater.java)|Medium
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/SpiralMatrix.java)|Medium
 [78. Subsets](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/Subsets.java)|Medium
+[90. Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/Subsets2.java)|Medium
