@@ -77,3 +77,4 @@ Problem | Solution | Difficulty
 [90. Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/Subsets2.java)|Medium
 [46. Permutations](https://leetcode.com/problems/permutations/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/Permutations.java)|Medium
 [47. Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/Permutations2.java)|Medium
+[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/CombinationSum.java)|Medium
