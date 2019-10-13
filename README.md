@@ -75,3 +75,4 @@ Problem | Solution | Difficulty
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/SpiralMatrix.java)|Medium
 [78. Subsets](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/Subsets.java)|Medium
 [90. Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/Subsets2.java)|Medium
+[46. Permutations](https://leetcode.com/problems/permutations/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/Permutations.java)|Medium
