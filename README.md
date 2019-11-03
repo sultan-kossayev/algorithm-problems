@@ -83,3 +83,4 @@ Problem | Solution | Difficulty
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/DecodeWays.java)|Medium
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/BinaryTreeInorderTraversal.java)|Medium
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ValidateBinarySearchTree.java)|Medium
+[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/KthSmallestElementInBST.java)|Medium
