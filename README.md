@@ -82,3 +82,4 @@ Problem | Solution | Difficulty
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/LetterCombinationsOfPhoneNumber.java)|Medium
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/DecodeWays.java)|Medium
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/BinaryTreeInorderTraversal.java)|Medium
+[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/ValidateBinarySearchTree.java)|Medium
