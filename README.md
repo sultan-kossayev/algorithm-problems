@@ -81,3 +81,4 @@ Problem | Solution | Difficulty
 [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/CombinationSum2.java)|Medium
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/LetterCombinationsOfPhoneNumber.java)|Medium
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/DecodeWays.java)|Medium
+[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](https://github.com/sultan-kossayev/algorithm-problems/blob/master/src/main/java/leetcode/BinaryTreeInorderTraversal.java)|Medium
